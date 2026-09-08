@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MiLoginApp5Agemini</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="social_login">Social login</string>
+    <string name="error_empty_username">Ingresa tu usuario</string>
+    <string name="error_empty_password">Ingresa tu contraseña</string>
+    <string name="success_login">Ingresaste las credenciales correctas</string>
+    <string name="desc_user_icon">Icono de usuario</string>
+    <string name="desc_facebook">Icono de Facebook</string>
+    <string name="desc_instagram">Icono de Instagram</string>
+</resources>
